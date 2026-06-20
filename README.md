@@ -4,7 +4,7 @@
 
 ## 公開URL
 
-GitHub Pagesで公開予定です。
+GitHub Pagesで公開しています。
 
 https://shuunya75.github.io/goal-timer/
 
