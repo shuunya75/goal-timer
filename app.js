@@ -15,7 +15,7 @@ const mainButton = document.querySelector("#main-button");
 const resetButton = document.querySelector("#reset-button");
 
 const state = {
-  targetSeconds: 5 * 60,
+  targetSeconds: 4 * 60,
   minimumSeconds: 4 * 60 + 30,
   elapsedBeforeStartMs: 0,
   startedAtMs: 0,
